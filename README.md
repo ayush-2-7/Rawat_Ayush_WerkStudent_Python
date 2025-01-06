@@ -31,7 +31,7 @@ Required Python packages:
 - openpyxl
 
 
-## Known Issues
+## Problem Faced
 
-### Executable Creation
+### Executable(.exe) Creation
 The attempt to create an executable (.exe) file failed despite the script running successfully in Python. The package dependencies were not properly bundled in the executable, preventing it from running as intended. This remains an unresolved issue requiring further investigation into packaging configuration.
